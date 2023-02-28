@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Hello World
+title: Week 1 of Biohack
 ---
 
-# Title
+# Intros
 
-## Subtitle
+## The Waag Future Lab
 
-First post on my Github Jekyll page on the first day of the BioHack Academy
+Settling in....
 
 **bold**
 
