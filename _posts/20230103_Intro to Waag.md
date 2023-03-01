@@ -13,7 +13,7 @@ To contribute to the development of a sustainable and just society "Waag works i
 
 Personally one motivator for this trip was to see, in peron, a transdisciplinary organisation like Waag functions and to think about how this model could be translated into the Australian context. Speaking of Oz, I also find it Ironic that I have flown across the world from the Asia Pacific to discover that Waag is situatied in Amsterdam's China town equivalent and to live opposite Java Island. Just like home. 
 
-
+![test](/images/config.png)
 
 **bold**
 
