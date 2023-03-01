@@ -13,4 +13,4 @@ First post on my Github Jekyll page on the first day of the BioHack Academy
 
 [link to google](www.google.com)
 
-<!-- code for putting an image ![name](/images/filename.png) 
+![name](/images/config.png) 
