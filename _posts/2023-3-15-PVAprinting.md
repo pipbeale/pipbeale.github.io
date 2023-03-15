@@ -8,7 +8,11 @@ I also discovered that silicone is relatively permeable to oxygen which is relev
 
 ## 3D Models of test shapes
 
-Firstly I decided on a selection of test shapes to print and drew them up in Autodesk Fusion 360. Because I am going for organic and vein-like shapes, I found I was often using the "create form" function or the "create pipe" functions in fusion. I made each shape with an extension that was 4mm in diameter to fit a one way valve and some tubing bought from an aquarium shop to test out my inflatables. 
+Firstly I decided on a selection of test shapes to print and drew them up in Autodesk Fusion 360. Because I am going for organic and vein-like shapes, I found I was often using the "create form" function or the "create pipe" functions in fusion. 
+
+![name](/images/PVAtestdesigns.png) 
+
+I made each shape with an extension that was 4mm in diameter to fit a one way valve and some tubing bought from an aquarium shop to test out my inflatables. 
 
 ![name](/images/PVAtest3Dmodel.png) 
 
