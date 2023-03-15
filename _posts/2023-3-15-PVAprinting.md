@@ -30,7 +30,7 @@ Note that the suggested print temperature is given as a range. At first I had th
 
 ![name](/images/PVAtemptests.png) 
 
-Put an SD card into your compy, dont forget (like I did) to tick for the software to add supports and then hit slice. Once it is done it'll ask you if you want to export the .gode file to the external drive. Hit yes, and then hit eject drive! 
+Put an SD card into your compy, dont forget (like I did) to tick for the software to add supports and then hit slice. Once it is done it'll ask you if you want to export the .gcode file to the external drive. Hit yes, and then hit eject drive! 
 
 ![name](/images/PVAtestslicer.png)
 
