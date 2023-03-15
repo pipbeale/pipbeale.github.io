@@ -2,9 +2,6 @@
 layout: post
 title: PVA 3D printing
 ---
-
-# PVA printing 
-
 After watching a bunch of videos of techniques used for making inflatables and soft robotics and chatting with my fellow Biohack Participant Anna who is a digital fabrication whizz, I decided I wanted to experiement with using PVA filament. My plan was to 3D print shapes that I could cover in silicone and then dissolve in water so that I would be left with a silicone tube/shape that I could inflate! I haven't seen anyone trying this technique (although I'm sure I'm not the first) so I am really curious how it will turn out! 
 
 I also discovered that silicone is relatively permeable to oxygen which is relevant for my final project idea - more on that later! 
