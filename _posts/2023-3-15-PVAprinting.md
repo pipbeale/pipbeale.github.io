@@ -63,7 +63,9 @@ In the end my layers were not thick enough so I will need to apply more coats of
 
 I used a magnetic stirer with a heating element that we made in another week of the Biohack Academy to speed up the dissolving process. Regardless it was rather slow. The low surface area in contact with the water meant that by the end of the day it has only just started to get slimey on the end. Hower there a number of options to try to speed up the process including reducing the infill of the 3d print or changing the pattern of the infill so that the water can penetrate more easily. 
 
-![name](/images/SiliconeTest1.mov) 
+<video width="320" height="240" controls>
+  <source src="images/SiliconeTest1.mov" type="video/mov">
+</video>
 
 After the weekend it actually looked awesome! But the tube was not patent so it could not be inflated. But I really liked how it looked in the water. 
 
